@@ -1,0 +1,36 @@
+# Python cache/compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Logs
+*.log
+
+# Database / SQLite
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+*.env
+
+# IDE & editor settings
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Node / frontend build files (if any)
+node_modules/
+dist/
+build/
